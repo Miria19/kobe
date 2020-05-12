@@ -51,5 +51,11 @@ a:hover
 a:link
 {color: white}
 
+footer {background-color: black;
+  font-color: white;
+  text-align: center;
+  height: 100px;
+}
+
 
 
