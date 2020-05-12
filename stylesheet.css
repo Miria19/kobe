@@ -16,20 +16,23 @@ p {color: white;
 #img-caption {
   font-family: sans-serif;
   font-size: 18px;
-  padding: 20px; 
+  padding: 30px; 
+  margin-bottom: 30px;
 }
 
 #img-div {
   background-color: white;
-  margin: 20px 50px;
+  margin: 50px;
   display: grid;
   place-items: center;
+  width: 80%;
 }
 
 #image {height: auto;
 max-width: 100%;
 margin: 25px;
-margin-top: 150px;}
+  margin-top: 100px;
+}
 
 #tribute-info 
 {font-family: sans-serif;
