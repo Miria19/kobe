@@ -52,8 +52,10 @@ a:link
 {color: white}
 
 footer {background-color: black;
-  font-color: white;
+  color: white;
   text-align: center;
+  font-size: 30px;
+  font-family: monospace;
   height: 100px;
 }
 
