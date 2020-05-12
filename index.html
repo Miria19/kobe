@@ -37,12 +37,16 @@
     <br>
 </main>
    <footer>
-    <p>Tribute Page by <a id="miriafooter" href="#" style="text-decoration: none">Miria</a>&copy; 2020</p>
-    
+    <p>Tribute Page by <a id="miriafooter" href="#" style="text-decoration: none">Miria</a>&copy; <span id="date"></span> 
+        <script>var d = new Date();
+      document.getElementById("date").innerHTML = d.getFullYear();</script></p>
+       
+       
+   <div id="iconsfooter"> 
   <a href="https://twitter.com/MiriaSpirovski" target="_blank"> <i class="fa fa-twitter w3-hover-opacity"></i></a>
    <a href="https://www.freecodecamp.org/miria" target="_blank"> <i class="fa fa-free-code-camp w3-hover-opacity"></i></a>
   <a href="https://github.com/Miria19" target="_blank"> <i class="fa fa-github w3-hover-opacity"></i></a>
-
+       </div>
   </footer> 
     
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
