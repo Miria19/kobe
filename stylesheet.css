@@ -28,7 +28,8 @@ p {color: white;
 
 #image {height: auto;
 max-width: 100%;
-margin: 25px;}
+margin: 25px;
+margin-top: 50px;}
 
 #tribute-info 
 {font-family: sans-serif;
