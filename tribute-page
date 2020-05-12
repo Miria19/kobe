@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title id="title">Kobe Bryant</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
+<h1>Kobe Bryant</h1>
+<p>1978 - 2020</p>
+<main id="main">
+  <div id="img-div"> <img alt="Kobe's greatest shot" height="700px" width="850px" id="image" src= "https://www.nba.com/lakers/sites/lakers/files/getty-images-71213164.jpg"> <div id="img-caption">As a shooting guard, Bryant entered the National Basketball Association (NBA) directly from high school, and played his entire 20-season professional career in the league with the Los Angeles Lakers. Bryant won many accolades: five NBA championships, 18-time All-Star, 15-time member of the All-NBA Team, 12-time member of the All-Defensive Team, 2008 NBA Most Valuable Player (MVP), two-time NBA Finals MVP winner. Widely regarded as one of the greatest players of all time, he led the NBA in scoring during two seasons, ranks fourth on the league's all-time regular season scoring and all-time postseason scoring lists.</div>
+  </div>
+ 
+  <div id="tribute-info" ><h3>Highlights of  Kobe Bryants life:</h3>
+<ul>
+  <li><i>1978</i> | Born in Philadelphia, Pennsylvania
+  </li>
+  <li><i>1996</i> | NBA draft
+  </li>
+  <li><i>1997</i> | NBA Slam Dunk Contest champion
+  </li>
+  <li><i>1998 - 2016</i> | 18x NBA Allstar
+  </li>
+  <li><i>2008</i> | NBA Most Valuable Player 
+  </li>
+  <li><i>2009 & 2010</i> | 2x NBA Finals MVP </li>
+  
+  <li><i>2000 - 2010</i> | 5x NBA Champion
+   </li>
+    </ul>
+  <br>
+<a href="https://en.wikipedia.org/wiki/Kobe_Bryant"id="tribute-link" target="_blank">If you have time, you should read more about this incredible human being on his Wikipedia entry.</a>
+  </div>
+</main>
+    
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</html>
